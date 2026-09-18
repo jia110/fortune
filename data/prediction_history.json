@@ -184794,10 +184794,10 @@
       "model_type": "catboost",
       "data_date": "2026-08-19",
       "target_date": "2026-09-16",
-      "outcome": null,
-      "actual_return": null,
-      "actual_direction": null,
-      "evaluated_at": null,
+      "outcome": "correct",
+      "actual_return": -0.0269,
+      "actual_direction": "down",
+      "evaluated_at": "2026-09-19T02:56:46",
       "market": "HK"
     },
     {
@@ -219774,10 +219774,10 @@
       "model_type": "catboost",
       "data_date": "2026-09-09",
       "target_date": "2026-09-16",
-      "outcome": null,
-      "actual_return": null,
-      "actual_direction": null,
-      "evaluated_at": null,
+      "outcome": "correct",
+      "actual_return": -0.0193,
+      "actual_direction": "down",
+      "evaluated_at": "2026-09-19T02:56:41",
       "market": "HK"
     },
     {
@@ -228563,7 +228563,7 @@
   ],
   "metadata": {
     "created_at": "2026-03-25T00:00:00",
-    "last_updated": "2026-09-18T03:37:02",
+    "last_updated": "2026-09-19T02:56:48",
     "version": "1.0",
     "total_predictions": 11428
   }
