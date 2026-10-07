@@ -5320,14 +5320,56 @@
       "outcome": null,
       "actual_return": null,
       "actual_direction": null
+    },
+    {
+      "prediction_id": "2026-10-07_1d",
+      "timestamp": "2026-10-07T09:22:54",
+      "data_date": "2026-10-07",
+      "target_date": "2026-10-08",
+      "horizon": 1,
+      "predicted_direction": "up",
+      "prediction_probability": 0.6883638690666913,
+      "confidence_level": "高",
+      "entry_price": 24172.29,
+      "outcome": null,
+      "actual_return": null,
+      "actual_direction": null
+    },
+    {
+      "prediction_id": "2026-10-07_5d",
+      "timestamp": "2026-10-07T09:22:54",
+      "data_date": "2026-10-07",
+      "target_date": "2026-10-14",
+      "horizon": 5,
+      "predicted_direction": "up",
+      "prediction_probability": 0.5289942375823979,
+      "confidence_level": "低",
+      "entry_price": 24172.29,
+      "outcome": null,
+      "actual_return": null,
+      "actual_direction": null
+    },
+    {
+      "prediction_id": "2026-10-07_20d",
+      "timestamp": "2026-10-07T09:22:54",
+      "data_date": "2026-10-07",
+      "target_date": "2026-11-04",
+      "horizon": 20,
+      "predicted_direction": "up",
+      "prediction_probability": 0.8062189517351422,
+      "confidence_level": "高",
+      "entry_price": 24172.29,
+      "outcome": null,
+      "actual_return": null,
+      "actual_direction": null
     }
   ],
   "metadata": {
     "created_at": "2026-04-28T00:00:00",
-    "last_updated": "2026-10-06T10:10:16",
+    "last_updated": "2026-10-07T09:22:54",
     "version": "1.0",
-    "total_predictions": 357,
+    "total_predictions": 360,
     "description": "恒生指数多周期预测历史记录",
-    "last_verified": "2026-10-06T10:10:08"
+    "last_verified": "2026-10-07T09:22:46"
   }
 }
